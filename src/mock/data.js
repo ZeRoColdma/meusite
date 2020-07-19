@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Carlos Dev', // e.g: 'Name | Developer'
   lang: 'pt-br', // e.g: en, es, fr, jp
-  description: 'Bem vindo ao meu portif', // e.g: Welcome to my website
+  description: 'Bem vindo ao meu portifolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Carlos1.jpeg',
+  img: 'carlos.png',
   paragraphOne:
     ' Trabalho com desenvolvmento Web e Mobile a 3 anos utilizando ReactJS e Flutter como tecnologias principais de FrontEnd e NodeJS como tecnologia de BackEnd',
   paragraphTwo:
