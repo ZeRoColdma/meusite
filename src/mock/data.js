@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'carlos.png',
   paragraphOne:
-    ' Trabalho com desenvolvmento Web e Mobile a 3 anos utilizando ReactJS e Flutter como tecnologias principais de FrontEnd e NodeJS como tecnologia de BackEnd',
+    ' Trabalho com desenvolvimento Web e Mobile a 3 anos utilizando ReactJS e Flutter como tecnologias principais de FrontEnd e NodeJS como tecnologia de BackEnd.',
   paragraphTwo:
     'Contribuir para o crescimento profissional de todos da equipe e ajudar na obtenção dos resultados necessários para o sucesso do setor.',
   paragraphThree:
-    'Adiquirir tecnicas de  HardSkills e Softskills da área de ocupação, sempre seguindo os valores da empresa assim como tomar pra si a missão da empresa',
+    'Adquirir técnicas de HardSkills e Softskills da área de ocupação, sempre seguindo os valores da empresa assim como tomar pra si a missão da empresa.',
   resume: 'https://drive.google.com/open?id=1d-_3C_jP6idLefTvIPGWYLAT5ExXoiSU', // if no resume, the button will not show up
 };
 
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'projeto1.png',
     title: 'Dashboard',
     info:
-      'Dashboard destinado ao controle financeiro para uma instituição juridica tendo assim controle dos valores em flutuação, varas responsaveis e clientes que em questão.',
+      'Dashboard destinado ao controle financeiro para uma instituição jurídica tendo assim controle dos valores em flutuação, varas responsáveis e clientes que em questão.',
     info2: '',
     url: 'https://asjur-app-m.herokuapp.com/',
     repo: 'https://github.com/ZeRoColdma', // if no repo, the button will not show up
@@ -44,7 +44,7 @@ export const projectsData = [
     img: 'projeto2.png',
     title: 'Site Institucional',
     info:
-      'Site voltado pra divulgaçao e captação de novos clientes feito e adaptado de acordo com a proferencia do contratante.',
+      'Site voltado para divulgação e captação de novos clientes feito e adaptado de acordo com a preferencia do contratante.',
     info2: '',
     url: '',
     repo: 'https://github.com/ZeRoColdma', // if no repo, the button will not show up
