@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Olá, meu nome é',
   name: 'Carlos',
-  subtitle: 'Sou desenvolvedor Web e Mobile',
+  subtitle: 'Desenvolvedor Web e Mobile',
   cta: 'Sobre Mim',
 };
 
@@ -24,7 +24,7 @@ export const aboutData = {
     'Contribuir para o crescimento profissional de todos da equipe e ajudar na obtenção dos resultados necessários para o sucesso do setor.',
   paragraphThree:
     'Adquirir técnicas de HardSkills e Softskills da área de ocupação, sempre seguindo os valores da empresa assim como tomar pra si a missão da empresa.',
-  resume: 'https://drive.google.com/open?id=1d-_3C_jP6idLefTvIPGWYLAT5ExXoiSU', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1y45kBORHt7JBXNpd20A6-dIftFbsp74L/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
